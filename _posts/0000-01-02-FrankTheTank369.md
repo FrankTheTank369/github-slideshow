@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Dayman, master of karate and friendship for everyone"
 Use the left arrow to go back!
